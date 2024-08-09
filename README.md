@@ -24,4 +24,4 @@ The Amazon Offers Scraper is a Python-based tool designed to extract and display
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/amazon-offers-scraper.git
+   git clone https://github.com/reviverkid/Amazon-Offers-Scraper.git
